@@ -35,7 +35,7 @@ Install all required dependencies in an isolated environment
 ```
 
 ```bash
-  venv\Scripts\activate
+  . venv/Scripts/activate
 ```
 
 ```bash
@@ -57,7 +57,7 @@ Activate  virtual environment
 ```
 
 ```bash
-  venv\Scripts\activate
+  . venv/Scripts/activate
 ```
 
 Then run the Script
